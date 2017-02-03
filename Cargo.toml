@@ -1,0 +1,8 @@
+[package]
+name = "liblearn"
+version = "0.1.0"
+authors = ["Kushal Das <mail@kushaldas.in>"]
+
+[lib]
+name = "liblearn"
+crate-type = ["cdylib"]
